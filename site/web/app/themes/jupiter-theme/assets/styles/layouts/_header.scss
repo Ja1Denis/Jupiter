@@ -2,10 +2,10 @@
 
   height: 500px;
   width: auto;
-  background-image: url("https://www.nasa.gov/sites/default/files/jupiter_1_0.jpg");
 }
-.ClassName {
-  .carousel-item{
-    src: url("http://bit.ly/2CfQrUV");
-  }
+
+.active.carousel-item {
+  <img class="d-block img-fluid" src="https://goo.gl/Qx1Tj6" alt="First slide">
+    
+
 }
