@@ -75,3 +75,10 @@
   $(document).ready(UTIL.loadEvents);
 
 })(jQuery); // Fully reference jQuery after this point.
+
+/** import external dependencies */
+import 'jquery';
+import 'bootstrap/dist/js/bootstrap';
+
+// Import Slick
+import 'slick-carousel/slick/slick.min';
