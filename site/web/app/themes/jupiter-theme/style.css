@@ -10,13 +10,3 @@ Text Domain:        sage
 License:            MIT License
 License URI:        http://opensource.org/licenses/MIT
 */
-
-/* Carousel options */
-.carousel_container{
-    width: auto;
-    height: 100px;
-}
-.d-block {
-  width: 90%;
-  height: 50%;
-}
